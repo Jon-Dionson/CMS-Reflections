@@ -4,10 +4,10 @@
 This week was about the introduction of learning sass, which stands for Syntactically Awesome Style Sheets. This also includes learning how to use and set up gulp for automation, and enabling scss to be transformed into css files so that html can read it. 
 
 # Resources 
-https://www.linkedin.com/learning/sass-essential-training-2015/working-with-variables?autoSkip=true&autoplay=true&resume=false&u=2223545
-https://gulpjs.com/docs/en/getting-started/quick-start/
-https://www.npmjs.com/package/gulp-sass
-https://www.youtube.com/watch?v=kQb7U0dQGPA
+- https://www.linkedin.com/learning/sass-essential-training-2015/working-with-variables?autoSkip=true&autoplay=true&resume=false&u=2223545
+- https://gulpjs.com/docs/en/getting-started/quick-start/
+- https://www.npmjs.com/package/gulp-sass
+- https://www.youtube.com/watch?v=kQb7U0dQGPA
 
 # Estimated Hours 
 about 6 hours 
