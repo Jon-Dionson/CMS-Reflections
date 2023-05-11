@@ -1,6 +1,15 @@
+Notes
+
+Partials have underscore at the beginning
+
+style.scss should have a lot of import statements
+don't need file extension or underscore in style.scss file 
+
 # Prac 9/ Wk 10 reflection
+
 # Learning Activities 
 This week was about the introduction of learning sass, which stands for Syntactically Awesome Style Sheets. This also includes learning how to use and set up gulp for automation, and enabling scss to be transformed into css files so that html can read it. 
+
 # Resources 
 https://www.linkedin.com/learning/sass-essential-training-2015/working-with-variables?autoSkip=true&autoplay=true&resume=false&u=2223545
 https://gulpjs.com/docs/en/getting-started/quick-start/
@@ -9,10 +18,12 @@ https://www.youtube.com/watch?v=kQb7U0dQGPA
 
 # Estimated Hours 
 about 6 hours 
+
 # Content Insights 
 Sass is a very powerful tool within web development. Since css lacks variables, nesting and functions, this means css goes against DRY (don't repeat yourself). Sass makes it so that  css is much more modular follows DRY and makes the code easier to read. The use of gulp is also great tool as it enables developers to see their edits with greater ease with the use of browser sync, and enables scss files to be turned into CSS files (which html files can only read).
 
 # Career/Employability/Learning Insights
+
 ## Employability Insights
 Being able to use sass will be a great help with web developers. This is cause it enables css files to be managed with great ease, less dificulty when making minor changes such as colour and enables developers to focus on more important things in web development such as JavaScript or site layout, instead of checking if they changed all the colours in the correct places or all the font is the same. 
 
